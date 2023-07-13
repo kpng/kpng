@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpng
 - 👀 I’m interested in watching movies
-- 🌱 I’m currently learning OpenShift
+- 🌱 I’m currently learning something 
 - 💞️ I’m looking to collaborate on building a solution to encourage the community to involve in green sustainability efforts
 - 📫 Reach me via my github 
 
